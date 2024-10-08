@@ -1,40 +1,37 @@
 {
     "Individuals": {
-        "2047569988": {
-	        "Reason": "Reason 1"
-        },
-        "234234": {
-	        "Reason": "Reason 2"
+        "1715887789": {
+	        "Reason": "Potentially conducted activites related to deliberately crashing servers."
         }
     },
     "Groups": {
         "3319137": {
-            "1": "Player",
-            "2": "Early Access Testers",
-            "3": "Contributors",
-            "4": "Moderator",
-            "5": "Administrator",
-            "6": "Ranking Providers",
-            "7": "Head Admin",
-            "8": "Modelling Team",
-            "9": "Asset Team",
-            "10": "Animation Team",
-            "12": "Developers",
-            "255": "Lead Developer"
+            "1": "Potential cheater (in cheating group)",
+            "2": "Potential cheater (in cheating group)",
+            "3": "Potential cheater (in cheating group)",
+            "4": "Potentially a developer for a cheat",
+            "5": "Potentially a developer for a cheat",
+            "6": "Potentially a developer for a cheat",
+            "7": "Potentially a developer for a cheat",
+            "8": "Potentially a developer for a cheat",
+            "9": "Potentially a developer for a cheat",
+            "10": "Potentially a developer for a cheat",
+            "12": "Potentially a developer for a cheat",
+            "255": "Potentially a developer for a cheat"
         },
         "8111019": {
-            "1": "Warrior",
-            "2": "Veteran",
-            "3": "The Withered Conjurers",
-            "4": "The Brotherhood",
-            "5": "Colts of Vaningard",
-            "6": "Ranking Helpers",
-            "7": "Hardcore Hunters",
-            "8": "Modelling Team",
-            "9": "Asset Team",
-            "10": "Animation Team",
-            "12": "Developers",
-            "255": "Lead Developer"
+            "1": "Potential cheater (in cheating group)",
+            "2": "Potential cheater (in cheating group)",
+            "3": "Potential cheater (in cheating group)",
+            "4": "Potential cheater (in cheating group)",
+            "5": "Potential cheater (in cheating group)",
+            "6": "Potential cheater (in cheating group)",
+            "7": "Potential cheater (in cheating group)",
+            "8": "Potential cheater (in cheating group)",
+            "9": "Potentially a developer for a cheat",
+            "10": "Potentially a developer for a cheat",
+            "12": "Potentially a developer for a cheat",
+            "255": "Potentially a developer for a cheat"
         }
     }
 }
