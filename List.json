@@ -1,0 +1,40 @@
+{
+    "Individuals": {
+        "2047569988": {
+	        "Reason": "Reason 1"
+        },
+        "234234": {
+	        "Reason": "Reason 2"
+        }
+    },
+    "Groups": {
+        "3319137": {
+            "1": "Player",
+            "2": "Early Access Testers",
+            "3": "Contributors",
+            "4": "Moderator",
+            "5": "Administrator",
+            "6": "Ranking Providers",
+            "7": "Head Admin",
+            "8": "Modelling Team",
+            "9": "Asset Team",
+            "10": "Animation Team",
+            "12": "Developers",
+            "255": "Lead Developer"
+        },
+        "8111019": {
+            "1": "Warrior",
+            "2": "Veteran",
+            "3": "The Withered Conjurers",
+            "4": "The Brotherhood",
+            "5": "Colts of Vaningard",
+            "6": "Ranking Helpers",
+            "7": "Hardcore Hunters",
+            "8": "Modelling Team",
+            "9": "Asset Team",
+            "10": "Animation Team",
+            "12": "Developers",
+            "255": "Lead Developer"
+        }
+    }
+}
