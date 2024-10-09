@@ -1,37 +1,38 @@
+
 {
     "Individuals": {
         "1715887789": {
-	        "Reason": "Potentially conducted activites related to deliberately crashing servers."
+            "Reason": "Potentially conducted activites related to deliberately crashing servers."
         }
     },
     "Groups": {
         "3319137": {
-            "1": "Potential cheater (in cheating group)",
-            "2": "Potential cheater (in cheating group)",
-            "3": "Potential cheater (in cheating group)",
-            "4": "Potentially a developer for a cheat",
-            "5": "Potentially a developer for a cheat",
-            "6": "Potentially a developer for a cheat",
-            "7": "Potentially a developer for a cheat",
-            "8": "Potentially a developer for a cheat",
-            "9": "Potentially a developer for a cheat",
-            "10": "Potentially a developer for a cheat",
-            "12": "Potentially a developer for a cheat",
-            "255": "Potentially a developer for a cheat"
+            "1": "Member of a terrorist organisation (QQ Studios // Black Magic 2)",
+            "2": "Member of a terrorist organisation (QQ Studios // Black Magic 2)",
+            "3": "Member of a terrorist organisation (QQ Studios // Black Magic 2)",
+            "4": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "5": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "6": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "7": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "8": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "9": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "10": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "12": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)",
+            "255": "Staff in a terrorist organisation (QQ Studios // Black Magic 2)"
         },
         "8111019": {
-            "1": "Potential cheater (in cheating group)",
-            "2": "Potential cheater (in cheating group)",
-            "3": "Potential cheater (in cheating group)",
-            "4": "Potential cheater (in cheating group)",
-            "5": "Potential cheater (in cheating group)",
-            "6": "Potential cheater (in cheating group)",
-            "7": "Potential cheater (in cheating group)",
-            "8": "Potential cheater (in cheating group)",
-            "9": "Potentially a developer for a cheat",
-            "10": "Potentially a developer for a cheat",
-            "12": "Potentially a developer for a cheat",
-            "255": "Potentially a developer for a cheat"
+            "1": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "2": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "3": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "4": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "5": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "6": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "7": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "8": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "9": "Member of a terrorist organisation (Black Magic 1 Community)",
+            "10": "Staff in a terrorist organisation (Black Magic 1 Community)",
+            "12": "Staff in a terrorist organisation (Black Magic 1 Community)",
+            "255": "Staff in a terrorist organisation (Black Magic 1 Community)"
         }
     }
 }
